@@ -1,0 +1,5 @@
+app.dSYM/
+*.o
+app
+.vscode/
+*.exe
